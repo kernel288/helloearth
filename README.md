@@ -1,0 +1,2 @@
+# helloearth
+Test auto make 
